@@ -35,7 +35,7 @@ body {
   align-items: center;
   justify-content: center;
   background-color: var(--main-bg-color);
-  cursor: url("../images/cursor.png"), auto;
+  cursor: url("./images/cursor.png"), auto;
 }
 
 .navbar {
@@ -169,7 +169,7 @@ img {
 }
 
 .portfolio-title::after {
-  content: url("../images/OBJECTS.png"); /* Replace with the path to your butterfly image */
+  content: url("./images/OBJECTS.png"); /* Replace with the path to your butterfly image */
   position: absolute;
   right: -20px; /* Adjust position as needed */
   top: -70px;
@@ -278,7 +278,7 @@ img {
 
 .work-img-4 {
   position: relative;
-  background-image: url("../images/Web-animation.jpg");
+  background-image: url("./images/Web-animation.jpg");
   width: 20em;
   height: 12em;
   background-size: cover;
@@ -291,7 +291,7 @@ img {
 
 .work-img-5 {
   position: relative;
-  background-image: url("../images/Ux-1.jpg");
+  background-image: url("./images/Ux-1.jpg");
   width: 20em;
   height: 12em;
   background-size: cover;
@@ -304,7 +304,7 @@ img {
 
 .work-img-6 {
   position: relative;
-  background-image: url("../images/Home.jpg");
+  background-image: url("./images/Home.jpg");
   width: 20em;
   height: 12em;
   background-size: cover;
@@ -413,7 +413,7 @@ img {
 }
 
 .whole-body {
-  cursor: url("../images/OBJECTS.png"), auto;
+  cursor: url("./images/OBJECTS.png"), auto;
   background-color: var(--main-bg-color);
   height: 2.5em;
   border: 1px solid var(--primary-color);
@@ -648,7 +648,7 @@ button {
 }
 
 .hero-contact {
-  background-image: url(../images/hero-background.png);
+  background-image: url("./images/hero-background.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
