@@ -134,7 +134,7 @@ img {
   position: absolute;
   width: 98%;
   height: 99%;
-  background-image: url("../images/hero-background.png");
+  background-image: url("./images/hero-background.png");
   background-size: cover;
   background-repeat: repeat;
   animation: blink 2s infinite;
