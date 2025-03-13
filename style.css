@@ -134,7 +134,7 @@ img {
   position: absolute;
   width: 98%;
   height: 99%;
-  background-image: url(../images/hero-background.png);
+  background-image: url("../images/hero-background.png");
   background-size: cover;
   background-repeat: repeat;
   animation: blink 2s infinite;
@@ -239,7 +239,7 @@ img {
 
 .work-img-1 {
   position: relative;
-  background-image: url(../images/Website-redesign.jpg);
+  background-image: url("../images/Website-redesign.jpg");
   width: 20em;
   height: 12em;
   background-size: cover;
@@ -265,7 +265,7 @@ img {
 
 .work-img-3 {
   position: relative;
-  background-image: url(../images/Studio_project_1.jpg);
+  background-image: url("../images/Studio_project_1.jpg");
   width: 20em;
   height: 12em;
   background-size: cover;
@@ -278,7 +278,7 @@ img {
 
 .work-img-4 {
   position: relative;
-  background-image: url(../images/Web-animation.jpg);
+  background-image: url("../images/Web-animation.jpg");
   width: 20em;
   height: 12em;
   background-size: cover;
@@ -291,7 +291,7 @@ img {
 
 .work-img-5 {
   position: relative;
-  background-image: url(../images/Ux-1.jpg);
+  background-image: url("../images/Ux-1.jpg");
   width: 20em;
   height: 12em;
   background-size: cover;
@@ -304,7 +304,7 @@ img {
 
 .work-img-6 {
   position: relative;
-  background-image: url(../images/Home.jpg);
+  background-image: url("../images/Home.jpg");
   width: 20em;
   height: 12em;
   background-size: cover;
