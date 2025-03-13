@@ -239,7 +239,7 @@ img {
 
 .work-img-1 {
   position: relative;
-  background-image: url("../images/Website-redesign.jpg");
+  background-image: url("./images/Website-redesign.jpg");
   width: 20em;
   height: 12em;
   background-size: cover;
@@ -252,7 +252,7 @@ img {
 
 .work-img-2 {
   position: relative;
-  background-image: url(../images/Branding.jpg);
+  background-image: url("./images/Branding.jpg");
   width: 20em;
   height: 12em;
   background-size: cover;
@@ -265,7 +265,7 @@ img {
 
 .work-img-3 {
   position: relative;
-  background-image: url("../images/Studio_project_1.jpg");
+  background-image: url("./images/Studio_project_1.jpg");
   width: 20em;
   height: 12em;
   background-size: cover;
